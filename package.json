@@ -1,0 +1,14 @@
+{
+  "name": "c84204a258c9ed18",
+  "main": "c84204a258c9ed18@513.js",
+  "version": "513.0.0",
+  "homepage": "https://observablehq.com/d/c84204a258c9ed18",
+  "author": {
+    "name": "baljotk",
+    "url": "https://observablehq.com/@baljotk"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
